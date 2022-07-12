@@ -9,6 +9,7 @@
 pillow\
 textwrap\
 sqlite3\
+os\
 \
 \
 }
