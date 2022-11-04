@@ -7,7 +7,7 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from database import Db
 from visit_make import visitmake
 
-TOKEN = '5513430059:AAGEPAHhxu2kieGe0fOi5nwWNPiJzc5E_t4'
+TOKEN = ''
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot, storage=MemoryStorage())
